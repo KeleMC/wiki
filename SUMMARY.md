@@ -7,7 +7,7 @@
 * [🈲 规则](start-guiding/gui-ze.md)
 * [👉 进入游戏](start-guiding/jin-ru-you-xi.md)
 * [💫 参与社区](start-guiding/can-yu-she-qu.md)
-* [🗣 问题反馈](start-guiding/wen-ti-fan-kui.md)
+* [🗣 问题反馈](https://support.qq.com/product/636781)
 
 ## 基本玩法 <a href="#basic-gameplay" id="basic-gameplay"></a>
 
@@ -18,7 +18,7 @@
 * [🧰 任务上分](basic-gameplay/ren-wu-shang-fen.md)
 * [🦅 冒险家之旅](basic-gameplay/mao-xian-jia-zhi-lv.md)
 * [🛕 传奇建筑](basic-gameplay/chuan-qi-jian-zhu.md)
-* [❓ 常见问题](basic-gameplay/chang-jian-wen-ti.md)
+* [❓ 常见问题](https://support.qq.com/product/636781/faqs-more)
 
 ## 技能与冒险 <a href="#skills" id="skills"></a>
 
