@@ -1,24 +1,47 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [👋 欢迎来到 KeleMC！](README.md)
 
-## About us
+## 开始游戏 <a href="#start-guiding" id="start-guiding"></a>
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [🈲 规则](start-guiding/gui-ze.md)
+* [👉 进入游戏](start-guiding/jin-ru-you-xi.md)
+* [💫 参与社区](start-guiding/can-yu-she-qu.md)
+* [🗣 问题反馈](start-guiding/wen-ti-fan-kui.md)
 
-## Team
+## 基本玩法 <a href="#basic-gameplay" id="basic-gameplay"></a>
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [🩸 活下去](basic-gameplay/huo-xia-qu.md)
+* [🏡 领地与家](basic-gameplay/ling-di-yu-jia.md)
+* [🥘 极致温饱](basic-gameplay/ji-zhi-wen-bao.md)
+* [🐺 驯服野兽](basic-gameplay/xun-fu-ye-shou.md)
+* [🧰 任务上分](basic-gameplay/ren-wu-shang-fen.md)
+* [🦅 冒险家之旅](basic-gameplay/mao-xian-jia-zhi-lv.md)
+* [🛕 传奇建筑](basic-gameplay/chuan-qi-jian-zhu.md)
 
-## Collaborating
+## 技能与冒险 <a href="#skills" id="skills"></a>
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [🛡 mcMMO 大法](skills/mcmmo-da-fa.md)
+* [🚩 冒险公会](skills/mao-xian-gong-hui.md)
+* [⛱ 其他](skills/qi-ta.md)
 
-## Policies
+## 经济 <a href="#economy" id="economy"></a>
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [💱 货币系统](economy/huo-bi-xi-tong.md)
+* [💹 收入与支出](economy/shou-ru-yu-zhi-chu.md)
+* [🛍 市场经济](economy/shi-chang-jing-ji.md)
+
+## 方块与装饰 <a href="#blocks-and-decoration" id="blocks-and-decoration"></a>
+
+* [⬛ 自定义方块](blocks-and-decoration/zi-ding-yi-fang-kuai.md)
+* [🎇 装饰物品](blocks-and-decoration/zhuang-shi-wu-pin.md)
+
+## 煮饭婆乐趣 <a href="#cooking" id="cooking"></a>
+
+* [🥬 自定义作物](cooking/zi-ding-yi-zuo-wu.md)
+* [🍱 做饭菜谱](cooking/zuo-fan-cai-pu.md)
+
+***
+
+* [❓ 常见问题](chang-jian-wen-ti.md)
+* [💎 唯你独特](wei-ni-du-te.md)
