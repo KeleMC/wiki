@@ -18,12 +18,12 @@
 * [🧰 任务上分](basic-gameplay/ren-wu-shang-fen.md)
 * [🦅 冒险家之旅](basic-gameplay/mao-xian-jia-zhi-lv.md)
 * [🛕 传奇建筑](basic-gameplay/chuan-qi-jian-zhu.md)
+* [❓ 常见问题](basic-gameplay/chang-jian-wen-ti.md)
 
 ## 技能与冒险 <a href="#skills" id="skills"></a>
 
 * [🛡 mcMMO 大法](skills/mcmmo-da-fa.md)
 * [🚩 冒险公会](skills/mao-xian-gong-hui.md)
-* [⛱ 其他](skills/qi-ta.md)
 
 ## 经济 <a href="#economy" id="economy"></a>
 
@@ -41,7 +41,6 @@
 * [🥬 自定义作物](cooking/zi-ding-yi-zuo-wu.md)
 * [🍱 做饭菜谱](cooking/zuo-fan-cai-pu.md)
 
-***
+## 等级权益 <a href="#ranks" id="ranks"></a>
 
-* [❓ 常见问题](chang-jian-wen-ti.md)
-* [💎 唯你独特](wei-ni-du-te.md)
+* [💎 唯你独特](ranks/wei-ni-du-te.md)
