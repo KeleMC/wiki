@@ -5,9 +5,10 @@
 ## 开始游戏 <a href="#start-guiding" id="start-guiding"></a>
 
 * [🈲 游戏规则](start-guiding/you-xi-gui-ze.md)
-* [👉 进入游戏](start-guiding/jin-ru-you-xi.md)
+* [👉 加入游戏](start-guiding/jia-ru-you-xi.md)
 * [💫 参与社区](start-guiding/can-yu-she-qu.md)
-* [🗣️ 问题反馈](https://support.qq.com/product/636781)
+* [🗣️ 建议和意见](https://support.qq.com/product/636781)
+* [❓ 常见问题（FAQ）](https://support.qq.com/product/636781/faqs-more)
 
 ## 基本玩法 <a href="#basic-gameplay" id="basic-gameplay"></a>
 
@@ -20,18 +21,17 @@
 * [🧰 任务上分](basic-gameplay/ren-wu-shang-fen.md)
 * [🦅 冒险家之旅](basic-gameplay/mao-xian-jia-zhi-lv.md)
 * [🛕 传奇建筑](basic-gameplay/chuan-qi-jian-zhu.md)
-* [❓ 常见问题](https://support.qq.com/product/636781/faqs-more)
-
-## 技能与冒险 <a href="#skills" id="skills"></a>
-
-* [🛡️ mcMMO 大法](skills/mcmmo-da-fa.md)
-* [🚩 冒险公会](skills/mao-xian-gong-hui.md)
 
 ## 经济 <a href="#economy" id="economy"></a>
 
 * [💱 货币系统](economy/huo-bi-xi-tong.md)
 * [💹 收入与支出](economy/shou-ru-yu-zhi-chu.md)
 * [🛍️ 市场经济](economy/shi-chang-jing-ji.md)
+
+## 技能与冒险 <a href="#skills" id="skills"></a>
+
+* [🛡️ mcMMO 大法](skills/mcmmo-da-fa.md)
+* [🚩 冒险公会](skills/mao-xian-gong-hui.md)
 
 ## 方块与装饰 <a href="#blocks-and-decoration" id="blocks-and-decoration"></a>
 

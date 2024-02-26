@@ -5,7 +5,7 @@ description: 服务器 Wiki 食用指南
 # 👋 欢迎来到 KeleMC Wiki！
 
 {% hint style="info" %}
-想直接进入 KeleMC ？直戳👉  [jin-ru-you-xi.md](start-guiding/jin-ru-you-xi.md "mention")&#x20;
+想直接进入 KeleMC ？直戳👉  [jia-ru-you-xi.md](start-guiding/jia-ru-you-xi.md "mention")&#x20;
 {% endhint %}
 
 如果你正在寻找详细的 KeleMC 的玩法指引或教程，你算是来对地方哩！在这里，你可以了解 KeleMC 各种不同的功能和玩法，确保你能够更快的畅玩游戏，提高体验感！&#x20;
