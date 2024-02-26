@@ -1,18 +1,20 @@
 # Table of contents
 
-* [👋 欢迎来到 KeleMC！](README.md)
+* [👋 欢迎来到 KeleMC Wiki！](README.md)
 
 ## 开始游戏 <a href="#start-guiding" id="start-guiding"></a>
 
-* [🈲 规则](start-guiding/gui-ze.md)
+* [🈲 游戏规则](start-guiding/you-xi-gui-ze.md)
 * [👉 进入游戏](start-guiding/jin-ru-you-xi.md)
 * [💫 参与社区](start-guiding/can-yu-she-qu.md)
-* [🗣 问题反馈](https://support.qq.com/product/636781)
+* [🗣️ 问题反馈](https://support.qq.com/product/636781)
 
 ## 基本玩法 <a href="#basic-gameplay" id="basic-gameplay"></a>
 
+* [🎮 善用游戏菜单](basic-gameplay/shan-yong-you-xi-cai-dan.md)
+* [🗺️ 世界与地点](basic-gameplay/shi-jie-yu-di-dian.md)
 * [🩸 活下去](basic-gameplay/huo-xia-qu.md)
-* [🏡 领地与家](basic-gameplay/ling-di-yu-jia.md)
+* [🏡 居所与保护](basic-gameplay/ju-suo-yu-bao-hu.md)
 * [🥘 极致温饱](basic-gameplay/ji-zhi-wen-bao.md)
 * [🐺 驯服野兽](basic-gameplay/xun-fu-ye-shou.md)
 * [🧰 任务上分](basic-gameplay/ren-wu-shang-fen.md)
@@ -22,14 +24,14 @@
 
 ## 技能与冒险 <a href="#skills" id="skills"></a>
 
-* [🛡 mcMMO 大法](skills/mcmmo-da-fa.md)
+* [🛡️ mcMMO 大法](skills/mcmmo-da-fa.md)
 * [🚩 冒险公会](skills/mao-xian-gong-hui.md)
 
 ## 经济 <a href="#economy" id="economy"></a>
 
 * [💱 货币系统](economy/huo-bi-xi-tong.md)
 * [💹 收入与支出](economy/shou-ru-yu-zhi-chu.md)
-* [🛍 市场经济](economy/shi-chang-jing-ji.md)
+* [🛍️ 市场经济](economy/shi-chang-jing-ji.md)
 
 ## 方块与装饰 <a href="#blocks-and-decoration" id="blocks-and-decoration"></a>
 
