@@ -5,7 +5,7 @@ description: 服务器 Wiki 食用指南
 # 👋 欢迎来到 KeleMC Wiki！
 
 {% hint style="info" %}
-想直接进入 KeleMC ？直戳👉  [jia-ru-you-xi.md](start-guiding/jia-ru-you-xi.md "mention")&#x20;
+想直接进入 KeleMC ？直戳👉  [join-in.md](start-guiding/join-in.md "mention")&#x20;
 {% endhint %}
 
 如果你正在寻找详细的 KeleMC 的玩法指引或教程，你算是来对地方哩！在这里，你可以了解 KeleMC 各种不同的功能和玩法，确保你能够更快的畅玩游戏，提高体验感！&#x20;
@@ -40,7 +40,7 @@ _**星球情况异常宜居，且暂未开发。 特招募船员前往探索。*
 
 只有你熟悉了游戏规则，才能在服务器里避免产生让你我都不愉快的事情发生。所以，一定要阅读游戏规则👀。
 
-规则详见👉 [you-xi-she-qu-gui-ze.md](start-guiding/you-xi-she-qu-gui-ze.md "mention")
+规则详见👉 [rules.md](start-guiding/rules.md "mention")
 
 ### 其次，找一处生存居所
 
@@ -50,7 +50,7 @@ _**星球情况异常宜居，且暂未开发。 特招募船员前往探索。*
 
 在主世界时空中，有多个平行世界，探险家可自行探索，目前仅有主世界（world）的居所可受到保护，其他世界的居所暂无保护措施，请尽量在主世界营造你的居所。
 
-保护个人居所详见👉 [ju-suo-yu-bao-hu.md](basic-gameplay/ju-suo-yu-bao-hu.md "mention")
+保护个人居所详见👉 [residence.md](basic-gameplay/residence.md "mention")
 
 ### 接下来，探险与生存
 
