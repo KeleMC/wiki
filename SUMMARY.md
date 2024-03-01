@@ -7,8 +7,8 @@
 * [🈲 游戏&社区规则](start-guiding/rules.md)
 * [👉 加入游戏](start-guiding/join-in.md)
 * [💫 参与社区](start-guiding/community.md)
-* [🗣️ 建议和意见](https://support.qq.com/product/636781)
-* [❓ 常见问题（FAQ）](https://support.qq.com/product/636781/faqs-more)
+* [🗣️ 建议和意见](https://kook.top/x4dlIR)
+* [❓ 常见问题（FAQ）](https://kook.top/e9DOlz)
 
 ## 基本玩法 <a href="#basic-gameplay" id="basic-gameplay"></a>
 
