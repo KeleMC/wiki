@@ -40,7 +40,7 @@ _**星球情况异常宜居，且暂未开发。 特招募船员前往探索。*
 
 只有你熟悉了游戏规则，才能在服务器里避免产生让你我都不愉快的事情发生。所以，一定要阅读游戏规则👀。
 
-规则详见👉 [you-xi-gui-ze.md](start-guiding/you-xi-gui-ze.md "mention")
+规则详见👉 [you-xi-she-qu-gui-ze.md](start-guiding/you-xi-she-qu-gui-ze.md "mention")
 
 ### 其次，找一处生存居所
 

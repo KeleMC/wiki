@@ -4,7 +4,7 @@
 
 ## 开始游戏 <a href="#start-guiding" id="start-guiding"></a>
 
-* [🈲 游戏规则](start-guiding/you-xi-gui-ze.md)
+* [🈲 游戏&社区规则](start-guiding/you-xi-she-qu-gui-ze.md)
 * [👉 加入游戏](start-guiding/jia-ru-you-xi.md)
 * [💫 参与社区](start-guiding/can-yu-she-qu.md)
 * [🗣️ 建议和意见](https://support.qq.com/product/636781)
@@ -12,7 +12,7 @@
 
 ## 基本玩法 <a href="#basic-gameplay" id="basic-gameplay"></a>
 
-* [🎮 善用游戏菜单](basic-gameplay/shan-yong-you-xi-cai-dan.md)
+* [🎮 善用菜单和指南](basic-gameplay/shan-yong-cai-dan-he-zhi-nan.md)
 * [🗺️ 世界与地点](basic-gameplay/shi-jie-yu-di-dian.md)
 * [🩸 活下去](basic-gameplay/huo-xia-qu.md)
 * [🏡 居所与保护](basic-gameplay/ju-suo-yu-bao-hu.md)
@@ -28,6 +28,11 @@
 * [💹 收入与支出](economy/shou-ru-yu-zhi-chu.md)
 * [🛍️ 市场经济](economy/shi-chang-jing-ji.md)
 
+## 煮饭婆乐趣 <a href="#cooking" id="cooking"></a>
+
+* [🥬 自定义作物](cooking/zi-ding-yi-zuo-wu.md)
+* [🍱 做饭菜谱](cooking/zuo-fan-cai-pu.md)
+
 ## 技能与冒险 <a href="#skills" id="skills"></a>
 
 * [🛡️ mcMMO 大法](skills/mcmmo-da-fa.md)
@@ -37,11 +42,6 @@
 
 * [⬛ 自定义方块](blocks-and-decoration/zi-ding-yi-fang-kuai.md)
 * [🎇 装饰物品](blocks-and-decoration/zhuang-shi-wu-pin.md)
-
-## 煮饭婆乐趣 <a href="#cooking" id="cooking"></a>
-
-* [🥬 自定义作物](cooking/zi-ding-yi-zuo-wu.md)
-* [🍱 做饭菜谱](cooking/zuo-fan-cai-pu.md)
 
 ## 等级权益 <a href="#ranks" id="ranks"></a>
 
