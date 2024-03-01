@@ -1,4 +1,4 @@
-# 🈲 游戏规则
+# 🈲 游戏&社区规则
 
 本页为 KeleMC Minecraft 服务器的游戏规则。请在加入游戏前认真阅读游戏规则，以免出现不必要的损失和不愉快的体验。
 
@@ -55,7 +55,7 @@
 
 ## 其他
 
-* 其他指引，请参考[服务器 Wiki](https://wiki.kelemc.fun) 及 [常见问题（FAQ）](https://support.qq.com/product/636781/faqs-more)
+* 其他指引，请参考[服务器 Wiki](https://wiki.kelemc.fun) 及 [常见问题（FAQ）](https://kook.top/e9DOlz)
 * 本规则最后更新于 2024-02-26 17:45 CST
 
 

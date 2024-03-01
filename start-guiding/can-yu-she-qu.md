@@ -35,7 +35,7 @@ layout:
 
 
 
-### 🎙**语音频道 KOOK：**
+### 🎙开黑服务器 **KOOK ：**
 
 ```
 服务器 ID : 33989723
@@ -47,4 +47,4 @@ layout:
 
 ### 🤬**游戏内容建设&反馈：**
 
-👉可以在兔小巢上对KeleMC 吐槽：[https://support.qq.com/product/636781](https://support.qq.com/product/636781)
+👉可以在 KOOK服务器上对KeleMC 反馈问题：[https://kook.top/x4dlIR](https://kook.top/x4dlIR)
