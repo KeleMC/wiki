@@ -31,7 +31,7 @@ play.kelemc.fun
 {% hint style="success" %}
 小插曲：本服务器装有 [Gypsy](http://gypsy-mc.org/) 插件支持通过基岩版（Minecraft Bedrock Edition）账号进入，使用基岩版的小伙伴也可以用以下 IP 加入服务器。
 
-基岩版 IP ： <mark style="background-color:yellow;">**kelemc.fun : 19132**</mark>
+基岩版 IP ： <mark style="background-color:yellow;">**be.kelemc.fun : 19132**</mark>
 {% endhint %}
 
 ## 游戏启动器
