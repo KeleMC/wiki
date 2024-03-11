@@ -96,6 +96,8 @@ KeleMC 的通过空间折跃将探险家在多个世界之间来回穿梭，探�
 /spawn
 ```
 
+<figure><img src="../.gitbook/assets/2024-03-11_17.55.13.png" alt=""><figcaption><p>Tars</p></figcaption></figure>
+
 ### 黑执事
 
 自称来自人类地球一个叫英国的地方，他可以与探险家签订死神契约，当探险家死亡时根据契约精神，将回收探险家背包遗物，并在探险家重生之时返还之。
@@ -106,6 +108,8 @@ KeleMC 的通过空间折跃将探险家在多个世界之间来回穿梭，探�
 /warp 黑执事
 ```
 
+<figure><img src="../.gitbook/assets/2024-03-11_17.56.26.png" alt=""><figcaption><p>黑执事</p></figcaption></figure>
+
 ### 本尼克
 
 一个当地人，在先遣队登陆之初，因为本尼克帮助先遣队捕捉并驯化当地生物而受到探险家们的热情欢迎。其驯养了很多生物但唯独钟爱狼狗，探险家们亲切地称呼他为兽人控。
@@ -115,6 +119,8 @@ KeleMC 的通过空间折跃将探险家在多个世界之间来回穿梭，探�
 ```
 /warp 本尼克
 ```
+
+<figure><img src="../.gitbook/assets/2024-03-11_17.57.32.png" alt=""><figcaption><p>本尼克</p></figcaption></figure>
 
 
 
