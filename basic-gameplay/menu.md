@@ -10,6 +10,8 @@ description: 本页通过游戏菜单和指南，带你快速了解 KeleMC。
 
 进入游戏后，可在出生点（`/spawn`）先遣队001号基地 的公告牌处于 坦克队长 交互即可呼出菜单。
 
+<figure><img src="../.gitbook/assets/2024-03-11_18.00.16.png" alt=""><figcaption><p>坦克队长</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>KeleMC 菜单</p></figcaption></figure>
 
 当然，你也可以通过以下指令呼出菜单。
