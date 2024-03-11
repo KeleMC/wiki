@@ -1,4 +1,5 @@
 ---
+description: 本页介绍 KeleMC 相关社区，期待你的加入。
 cover: ../.gitbook/assets/pexels-helena-lopes-2253275 (中).jpg
 coverY: 0
 layout:
