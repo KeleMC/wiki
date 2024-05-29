@@ -26,11 +26,11 @@ description: 本章节将简单介绍如何通过特殊物品快速捕获或者�
 
 ### 获得摄灵球
 
-
+可在 NPC 本尼克 处参与兽之召唤获得摄灵球
 
 ### 使用摄灵球
 
-
+手持摄灵球向目标生物投掷，即可把它捕获
 
 {% hint style="info" %}
 捕获生物插件：Mobs To Eggs（[https://www.spigotmc.org/resources/3268/](https://www.spigotmc.org/resources/69425/)）
