@@ -66,7 +66,7 @@ _**星球情况异常宜居，且暂未开发。 特招募船员前往探索。*
 
 在主世界时空中，有多个平行世界，探险家可自行探索，目前仅有主世界（world）的居所可受到保护，其他世界的居所暂无保护措施，请尽量在主世界营造你的居所。
 
-保护个人居所详见👉 [residence.md](basic-gameplay/residence.md "mention")
+保护个人居所详见👉 [residence.md](basic/residence.md "mention")
 
 ### 接下来，探险与生存
 

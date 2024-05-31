@@ -10,17 +10,16 @@
 * [🗣️ 建议和意见](https://kook.top/x4dlIR)
 * [❓ 常见问题（FAQ）](https://kook.top/e9DOlz)
 
-## 基本玩法 <a href="#basic-gameplay" id="basic-gameplay"></a>
+## 基础 <a href="#basic" id="basic"></a>
 
-* [🎮 善用菜单和指南](basic-gameplay/menu.md)
-* [🗺️ 世界与地点](basic-gameplay/locations.md)
-* [🩸 活下去](basic-gameplay/survival.md)
-* [🏡 居所与保护](basic-gameplay/residence.md)
-* [🥘 极致温饱](basic-gameplay/foods.md)
-* [🐺 驯服野兽](basic-gameplay/pets.md)
-* [🧰 任务上分](basic-gameplay/quests.md)
-* [🦅 冒险家之旅](basic-gameplay/adventure.md)
-* [🛕 传奇建筑](basic-gameplay/building.md)
+* [🎮 善用菜单和指南](basic/menu.md)
+* [🗺️ 世界与地点](basic/locations.md)
+* [🩸 活下去](basic/survival.md)
+* [🏡 居所与保护](basic/residence.md)
+* [🥘 极致温饱](basic/foods.md)
+* [🐺 驯服野兽](basic/pets.md)
+* [🧰 任务上分](basic/quests.md)
+* [🦅 探险家旅程](basic/adventure.md)
 
 ## 经济 <a href="#economy" id="economy"></a>
 
@@ -28,7 +27,7 @@
 * [💹 收入与支出](economy/income-pay.md)
 * [🛍️ 市场经济](economy/market.md)
 
-## 煮饭婆乐趣 <a href="#cooking" id="cooking"></a>
+## 饮食 <a href="#cooking" id="cooking"></a>
 
 * [🥬 自定义作物](cooking/corps.md)
 * [🍱 做饭菜谱](cooking/recipes.md)
