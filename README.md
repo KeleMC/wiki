@@ -2,20 +2,6 @@
 description: 服务器 Wiki 食用指南
 cover: .gitbook/assets/微信图片_20240323103607.png
 coverY: -84.14545659844742
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👋 欢迎来到 KeleMC Wiki！
