@@ -2,20 +2,9 @@
 description: 本页介绍 KeleMC 相关社区，期待你的加入。
 cover: ../.gitbook/assets/pexels-helena-lopes-2253275 (中).jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/F6gkekBiQcz9Bh2f3ZJu/start-guiding/community
 ---
 
 # 💫 参与社区

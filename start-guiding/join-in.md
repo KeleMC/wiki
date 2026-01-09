@@ -1,5 +1,8 @@
 ---
 description: 本页将为你介绍如何下载并加入 KeleMC 服务器。
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/F6gkekBiQcz9Bh2f3ZJu/start-guiding/join-in
 ---
 
 # 👉 加入游戏

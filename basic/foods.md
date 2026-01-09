@@ -1,5 +1,8 @@
 ---
 description: （想添加一些丰富饱食度的插件，但还没找到合适的，了了写一下原版的吧）
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/F6gkekBiQcz9Bh2f3ZJu/basic/foods
 ---
 
 # 🥘 极致温饱
@@ -14,8 +17,7 @@ description: （想添加一些丰富饱食度的插件，但还没找到合适�
 
 ## 营养值推荐
 
-营养价值是恢复饱和度与饥饿值的比值的一半。高营养价值的食物应当在饥饿值比较满时食用。\
-
+营养价值是恢复饱和度与饥饿值的比值的一半。高营养价值的食物应当在饥饿值比较满时食用。<br>
 
 <figure><img src="../.gitbook/assets/image (11).png" alt="https://zh.minecraft.wiki/w/%E9%A3%9F%E7%89%A9"><figcaption><p>Minecraft Wiki</p></figcaption></figure>
 

@@ -1,5 +1,8 @@
 ---
 description: 了解可勒世界的货币，成为大富翁！
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/F6gkekBiQcz9Bh2f3ZJu/economy/currency
 ---
 
 # 💱 货币系统

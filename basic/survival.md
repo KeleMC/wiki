@@ -1,5 +1,8 @@
 ---
 description: 不要忽视生存，否则你将失去极大的游戏体验。
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/F6gkekBiQcz9Bh2f3ZJu/basic/survival
 ---
 
 # 🩸 活下去

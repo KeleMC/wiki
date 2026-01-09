@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/F6gkekBiQcz9Bh2f3ZJu/basic/residence
+---
+
 # 🏡 居所与保护
 
 ## 寻找你的居所
@@ -18,19 +24,7 @@
 
 将木牌放在手上，右键目标方块即可上锁🔒，上锁时默认只会将自己名称加到锁上，意思是只有自己才能访问。也可以将你的小伙伴加到上面，这样他也能访问了。
 
-<div align="center" data-full-width="false">
-
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="188"><figcaption><p>活板门</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="188"><figcaption><p>木门</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="188"><figcaption><p>容器</p></figcaption></figure>
-
-</div>
+<div align="center" data-full-width="false"><figure><img src="../.gitbook/assets/image (6).png" alt="" width="188"><figcaption><p>活板门</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (8).png" alt="" width="188"><figcaption><p>木门</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (9).png" alt="" width="188"><figcaption><p>容器</p></figcaption></figure></div>
 
 ### 添加访问玩家
 

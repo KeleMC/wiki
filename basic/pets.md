@@ -1,5 +1,8 @@
 ---
 description: 本章节将简单介绍如何通过特殊物品快速捕获或者驯服一只动物作为自己的宠物
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/F6gkekBiQcz9Bh2f3ZJu/basic/pets
 ---
 
 # 🐺 驯服野兽
