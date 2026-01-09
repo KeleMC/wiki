@@ -12,7 +12,7 @@ metaLinks:
 服务器版本：
 
 ```
-Java 1.20.4
+Java 1.21.11
 ```
 
 服务器名称：
@@ -33,12 +33,6 @@ play.kelemc.fun
 
 需要购买账号可以跳转右侧链接到官方渠道购买一个。🔗[https://www.minecraft.net/zh-hans](https://www.minecraft.net/zh-hans)&#x20;
 
-{% hint style="success" %}
-小插曲：本服务器装有 [Gypsy](http://gypsy-mc.org/) 插件支持通过基岩版（Minecraft Bedrock Edition）账号进入，使用基岩版的小伙伴也可以用以下 IP 加入服务器。
-
-基岩版 IP ： <mark style="background-color:yellow;">**mc.kelemc.fun : 19132**</mark>
-{% endhint %}
-
 ## 游戏启动器
 
 Minecraft 游戏需要一个启动器进行登录账号，携带你的账号资料启动游戏，有些启动器还有些额外的功能，比如，管理模组、调整启动参数、~~把男娘图换成启动页面~~等等。有那么一些启动器可以选择：
@@ -51,20 +45,20 @@ Minecraft 游戏需要一个启动器进行登录账号，携带你的账号资�
 安装好了启动器后，各个启动器大同小异都有这些流程：
 
 1. 登录 Minecraft 账号
-2. 下载游戏版本（<mark style="color:red;">本服务器目前为 1.20.4 版本</mark>）
+2. 下载游戏版本（<mark style="color:red;">本服务器目前为 1.21.11 版本</mark>）
 3. （可选）通过整合包一键安装游戏版本+模组 Mods
 4. （可选）自定义安装和配置你需要的模组 Mods，初次游玩 Minecraft 暂不建议
 5. 启动游戏！
 
 ## 加入服务器
 
-启动游戏后，会看到如下游戏主界面，若需要切换语言，可以点击这个（![切换语言](<../.gitbook/assets/image (1).png>)）按钮进行切换适合你的语言。
+启动游戏后，会看到如下游戏主界面，若需要切换语言，可以点击这个（![切换语言](<../.gitbook/assets/image (1) (1).png>)）按钮进行切换适合你的语言。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Minecraft 启动后游戏主界面</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Minecraft 启动后游戏主界面</p></figcaption></figure>
 
 接下来，选择 **多人游戏** ，进入到如下服务器列表页面。
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Minecraft 多人游戏服务器列表</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Minecraft 多人游戏服务器列表</p></figcaption></figure>
 
 选择 **添加服务器** ，然后复制粘贴或直接输入以下服务器 IP ，服务器名称可以命名为 KeleMC 或者任意你喜欢的自定义名称。
 
@@ -88,5 +82,5 @@ play.kelemc.fun
 
 成功连接服务器后，即可看到如下界面，此时选择服务器后点击 **加入服务器** 开始游戏吧🎮！
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>服务器列表</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>服务器列表</p></figcaption></figure>
 

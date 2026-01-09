@@ -23,18 +23,3 @@ metaLinks:
 
 **👉**[点击链接加入群聊【KeleMC】：https://qm.qq.com/q/2MjlenTMBq](https://qm.qq.com/q/2MjlenTMBq)
 
-
-
-### 🎙开黑服务器 **KOOK ：**
-
-```
-服务器 ID : 33989723
-```
-
-👉点击连接加入【KeleMC】：[https://kook.top/m8dAVg](https://kook.top/m8dAVg)
-
-
-
-### 🤬**游戏内容建设&反馈：**
-
-👉可以在 KOOK服务器上对KeleMC 反馈问题：[https://kook.top/x4dlIR](https://kook.top/x4dlIR)

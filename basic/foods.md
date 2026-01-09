@@ -17,7 +17,7 @@ metaLinks:
 
 ## 营养值推荐
 
-营养价值是恢复饱和度与饥饿值的比值的一半。高营养价值的食物应当在饥饿值比较满时食用。<br>
+营养价值是恢复饱和度与饥饿值的比值的一半。高营养价值的食物应当在饥饿值比较满时食用。
 
-<figure><img src="../.gitbook/assets/image (11).png" alt="https://zh.minecraft.wiki/w/%E9%A3%9F%E7%89%A9"><figcaption><p>Minecraft Wiki</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Minecraft WIki</p></figcaption></figure>
 
